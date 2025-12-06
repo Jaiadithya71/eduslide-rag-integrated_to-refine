@@ -1,0 +1,24 @@
+# EduSlide AI Frontend Requirements
+# Python 3.9+
+# Core Framework
+streamlit==1.29.0
+# HTTP Requests
+requests==2.31.0
+# Data Processing
+python-dateutil==2.8.2
+# Environment Variables
+python-dotenv==1.0.0
+# EduSlide AI Frontend Requirements
+# Python 3.13 Compatible
+# Core Framework
+streamlit>=1.31.0
+# HTTP Requests
+requests>=2.31.0
+# Data Processing
+python-dateutil>=2.8.2
+# Environment Variables
+python-dotenv>=1.0.0
+# Required dependencies (will be auto-installed by streamlit)
+numpy>=2.0.0
+pandas>=2.2.0
+pillow>=10.0.0
